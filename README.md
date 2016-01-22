@@ -1,7 +1,9 @@
 # MOO_OF
-This is MATLAB repository of Multi-Objective functions that are found as benchmark problems
+This is MATLAB repository of Multi-Objective Optimization (MOO) Objective functions (OF) that are found as benchmark problems in several publications available in related literature.
+
 It contains Unconstrained and Constrained Objective Functions (problems) 
-- DTLZ2
+
+ - DTLZ2
  - Kursawe
  - RayTaiSeow
  - RayTaiSeowModified
