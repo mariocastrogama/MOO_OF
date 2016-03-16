@@ -1,5 +1,5 @@
 function [f,g]=RosenSuzuki(x)
-% RosenSuzuki.m 
+% Rosen-Suzuki.m 
 % Implements the benchmark single objective function
 % http://www.phoenix-int.com/software/benchmark_report/rosen_suzuki_discrete.php
 % The optimum is:

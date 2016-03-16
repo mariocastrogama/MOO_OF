@@ -1,5 +1,5 @@
 function [f, g] = UF1(x)
-  % UF1.m
+  % UF1
   % x and y are columnwise, the imput x must be inside the search space and
   % it could be a matrix
   global nfuneval 
